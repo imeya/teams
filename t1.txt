@@ -2,3 +2,4 @@ this is a good day.
 the line 2 state.
 the line 3 ohoh
 my line 4.
+hello a new file
